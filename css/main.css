@@ -177,16 +177,6 @@ header {
   color: #eece1a;
 }
 
-.email-link {
-    color: inherit; /* Inherit color from parent */
-    text-decoration: none; /* Remove underline */
-}
-
-.email-link:hover {
-    text-decoration: underline; /* Add underline on hover */
-    color: $secondary-color; /* Change color on hover */
-}
-
 main {
   padding: 4rem;
   min-height: calc(100vh - 60px);
